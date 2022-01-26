@@ -1,7 +1,7 @@
 ---
 layout: page
-theme: jekyll-theme-cayman
 title: Analysis
+tagline: List of quarkonium2mumu analyses
 description: Overview of quarkonium2mumu ongoing analyses
 ---
 
