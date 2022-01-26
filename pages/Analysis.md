@@ -1,5 +1,6 @@
 ---
 layout: page
+theme: jekyll-theme-cayman
 title: Analysis
 description: Overview of quarkonium2mumu ongoing analyses
 ---
