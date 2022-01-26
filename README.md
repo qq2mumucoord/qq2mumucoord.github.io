@@ -3,7 +3,7 @@
 Overview:
 
 - [Analysis](pages/Analysis.html)
-- [Conferences](pages/Conferences)
+- [Conferences](pages/Conferences.html)
 
 Useful links:
 
