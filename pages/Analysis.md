@@ -11,4 +11,4 @@ description: Overview of quarkonium2mumu ongoing analyses
  -ARC:
  -Paper draft: [7374](https://alice-publications.web.cern.ch/node/7374)
  -IRC:
- -Preliminary; yes
+ -Preliminary: yes
