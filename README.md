@@ -1,32 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to the quarkonium2mumu coordination page
+
+Very useful links:
+
+1. PWG-DQ twiki: [PWGDQDileptonsQuarkonia](https://twiki.cern.ch/twiki/bin/viewauth/ALICE/PWGDQDileptonsQuarkonia)
+2. Ongoing analyses: [google doc](https://docs.google.com/spreadsheets/d/1LwNX47b2VU2VA9BX8e-fGHdqDcK6zcJptR4do5ayb9U/edit#gid=1876881432)
+3. Analysis framework: [O2](https://aliceo2group.github.io/analysis-framework/docs/)
 
 You can use the [editor on GitHub](https://github.com/qq2mumucoord/qq2mumucoord.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Get started](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) and [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Jekyll Themes
 
