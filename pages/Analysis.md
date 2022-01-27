@@ -27,7 +27,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Cvetan, Zaida, Fiorella
   - Preliminary:
   - Paper proposal:
-  - Status:
+  - Status: CR1 -> IRC review
 
 - **First measurement in semi-central Pb--Pb collisions at sqrt(sNN) = 5.02 TeV of low-pt J/psi exceeding the hadronic production**
   - Analyzers: Ophelie
@@ -37,4 +37,15 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Evgeny, Jurgen, Trine
   - Preliminary: yes
   - Paper proposal:
-  - Status:
+  - Status: IRC review
+
+
+- **Measurement of the J/psi polarization with respect to the event plane in Pb-Pb collisions**
+  - Analyzers: Ophelie
+  - Analysis note: [1131](https://alice-notes.web.cern.ch/node/1131)
+  - ARC: 
+  - Paper draft: [6811](https://alice-publications.web.cern.ch/node/6811)
+  - IRC: Laure, Ionut, Panos
+  - Preliminary: no
+  - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199163/attachments/2178784/3680057/Jpsi_polarization_vs_event_plane.pdf)
+  - Status: EB review -> CR1
