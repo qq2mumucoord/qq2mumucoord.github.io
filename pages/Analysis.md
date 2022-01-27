@@ -60,3 +60,13 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary: 
   - Paper proposal: 
   - Status: EB review -> CR1
+
+- **Measurement of Psi(2S) production as a function of charged-particle multiplicity in pp collisions at 13 TeV and p--Pb collisions at 8.16 TeV with ALICE at the LHC**
+  - Analyzers: Theraa
+  - Analysis note: [1187](https://alice-notes.web.cern.ch/node/1187), [1043](https://alice-notes.web.cern.ch/node/1043)
+  - ARC: 
+  - Paper draft: [7373](https://alice-publications.web.cern.ch/node/7373)
+  - IRC: Anton Andronic, Anton Alkin, Luca
+  - Preliminary: 
+  - Paper proposal: 
+  - Status: EB review -> CR1
