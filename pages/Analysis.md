@@ -41,11 +41,22 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
 
 
 - **Measurement of the J/psi polarization with respect to the event plane in Pb-Pb collisions**
-  - Analyzers: Ophelie
+  - Analyzers: Luca
   - Analysis note: [1131](https://alice-notes.web.cern.ch/node/1131)
   - ARC: 
   - Paper draft: [6811](https://alice-publications.web.cern.ch/node/6811)
   - IRC: Laure, Ionut, Panos
   - Preliminary: no
   - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199163/attachments/2178784/3680057/Jpsi_polarization_vs_event_plane.pdf)
+  - Status: EB review -> CR1
+
+
+- **Multiplicity dependence of \ups production at forward rapidity in \pp collisions at 13 \TeV**
+  - Analyzers: Sarah
+  - Analysis note: [839](https://alice-notes.web.cern.ch/node/839)
+  - ARC: 
+  - Paper draft: [6687](https://alice-publications.web.cern.ch/node/6687)
+  - IRC: Martino, Zaida, Biswarup
+  - Preliminary: 
+  - Paper proposal: 
   - Status: EB review -> CR1
