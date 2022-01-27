@@ -36,7 +36,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Paper draft: [6810](https://alice-publications.web.cern.ch/node/6810)
   - IRC: Evgeny, Jurgen, Trine
   - Preliminary: yes
-  - Paper proposal:
+  - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199174/attachments/2180527/3683214/PF_Paper_Proposal_20210129.pdf)
   - Status: IRC review
 
 
