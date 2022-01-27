@@ -51,7 +51,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Status: EB review -> CR1
 
 
-- **Multiplicity dependence of \ups production at forward rapidity in \pp collisions at 13 \TeV**
+- **Multiplicity dependence of Y(1S) production at forward rapidity in pp collisions at 13 TeV**
   - Analyzers: Sarah
   - Analysis note: [839](https://alice-notes.web.cern.ch/node/839)
   - ARC: 
