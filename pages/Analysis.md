@@ -15,6 +15,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Paper draft: [7374](https://alice-publications.web.cern.ch/node/7374)
   - IRC:
   - Preliminary: yes
+  - Paper proposal:
   - Status:
 
  
@@ -25,4 +26,15 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Paper draft: [5122](https://alice-publications.web.cern.ch/node/5122)
   - IRC: Cvetan, Zaida, Fiorella
   - Preliminary:
+  - Paper proposal:
+  - Status:
+
+- **First measurement in semi-central Pb--Pb collisions at sqrt(sNN) = 5.02 TeV of low-pt J/psi exceeding the hadronic production**
+  - Analyzers: Ophelie
+  - Analysis note: [1102](https://alice-notes.web.cern.ch/node/1102)
+  - ARC: 
+  - Paper draft: [6810](https://alice-publications.web.cern.ch/node/6810)
+  - IRC: Evgeny, Jurgen, Trine
+  - Preliminary: yes
+  - Paper proposal:
   - Status:
