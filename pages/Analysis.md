@@ -70,3 +70,23 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary: 
   - Paper proposal: 
   - Status: EB review -> (IRC + EB review) -> CR1
+
+- **Psi(2S) production in PbPb collisions at sqrt(sNN) = 5.02 TeV**
+  - Analyzers: Roberta, Kunal, Biswarup, Hushnud
+  - Analysis note: [1216](https://alice-notes.web.cern.ch/node/1216)
+  - ARC: 
+  - Paper draft: [7632](https://alice-publications.web.cern.ch/node/7632)
+  - IRC: 
+  - Preliminary: 
+  - Paper proposal: [slides](https://indico.cern.ch/event/1105286/contributions/4654512/attachments/2368151/4044186/Psi2S-PF-21Dec2021.pdf)
+  - Status: 
+
+- **Psi(2S) production in PbPb collisions at sqrt(sNN) = 5.02 TeV**
+  - Analyzers: Sizar, Zaida
+  - Analysis note: [1192](https://alice-notes.web.cern.ch/node/1192)
+  - ARC: 
+  - Paper draft: [7634](https://alice-publications.web.cern.ch/node/7634)
+  - IRC: 
+  - Preliminary: 
+  - Paper proposal: [slides](https://indico.cern.ch/event/1105286/contributions/4649842/attachments/2366523/4041074/PF-JpsiPair-PaperProposal-16Dec21.pdf)
+  - Status: 
