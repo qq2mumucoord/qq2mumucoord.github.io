@@ -8,7 +8,7 @@ Overview:
 Useful links:
 
 1. PWG-DQ twiki: [PWGDQDileptonsQuarkonia](https://twiki.cern.ch/twiki/bin/viewauth/ALICE/PWGDQDileptonsQuarkonia)
-2. Analysis framework: [O2](https://aliceo2group.github.io/analysis-framework/docs/)
+2. Analysis framework: [O2](https://aliceo2group.github.io/analysis-framework/docs/), [twiki](https://twiki.cern.ch/twiki/bin/viewauth/ALICE/AliceO2DQFramework)
 
 
 You can use the [editor on GitHub](https://github.com/qq2mumucoord/qq2mumucoord.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
