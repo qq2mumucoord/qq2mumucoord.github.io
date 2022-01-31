@@ -48,7 +48,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Laure, Ionut, Panos
   - Preliminary: no
   - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199163/attachments/2178784/3680057/Jpsi_polarization_vs_event_plane.pdf)
-  - Status: EB review -> CR1
+  - Status: CR1
 
 
 - **Multiplicity dependence of Y(1S) production at forward rapidity in pp collisions at 13 TeV**
@@ -69,4 +69,4 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Anton Andronic, Anton Alkin, Luca
   - Preliminary: 
   - Paper proposal: 
-  - Status: EB review -> CR1
+  - Status: EB review -> (IRC + EB review) -> CR1
