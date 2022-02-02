@@ -2,7 +2,7 @@
 
 Overview:
 
-- [Analysis](pages/Analysis.md)
+- [Analysis](Analysis.md)
 - [Conferences](pages/Conferences.md)
 
 Useful links:
