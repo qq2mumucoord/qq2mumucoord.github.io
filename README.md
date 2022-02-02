@@ -2,9 +2,8 @@
 
 Overview:
 
-- [Analysis](pages/Analysis.html)
-- [Conferences](pages/Conferences.html)
-- [Test page](test_page.md)
+- [Analysis](pages/Analysis.md)
+- [Conferences](pages/Conferences.md)
 
 Useful links:
 
