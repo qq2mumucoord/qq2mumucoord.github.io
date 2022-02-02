@@ -1,10 +1,3 @@
----
-layout: page
-title: Analysis
-tagline: List of quarkonium2mumu analyses
-description: Overview of quarkonium2mumu ongoing analyses
----
-
 # List of the analyses going for paper
 Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/1LwNX47b2VU2VA9BX8e-fGHdqDcK6zcJptR4do5ayb9U/edit#gid=1876881432)
 
