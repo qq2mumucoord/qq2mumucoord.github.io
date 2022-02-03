@@ -1,4 +1,4 @@
-## Welcome to the quarkonium2mumu coordination
+## Welcome to the quarkonium2mumu page
 
 Overview:
 
