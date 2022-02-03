@@ -18,7 +18,8 @@ You can use the [editor on GitHub](https://github.com/qq2mumucoord/qq2mumucoord.
 
 ---
 
-```
+```{toggle} Click the button to reveal!
+:show:
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 For more details see [Get started](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) and [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
