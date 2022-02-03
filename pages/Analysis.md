@@ -13,6 +13,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Status:
 
 ---
+
 - **Forward rapidity J/psi production as a function of charged-particle multiplicity in pp collisions at sqrt(s) = 5.02 and 13 TeV with ALICE at the LHC**
   - Analyzers: Raghunath
   - Analysis note: 734, 658
@@ -24,6 +25,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Status: CR1 -> IRC review
 
 ---
+
 - **First measurement in semi-central Pb--Pb collisions at sqrt(sNN) = 5.02 TeV of low-pt J/psi exceeding the hadronic production**
   - Analyzers: Ophelie
   - Analysis note: [1102](https://alice-notes.web.cern.ch/node/1102)
@@ -35,6 +37,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Status: IRC review
 
 ---
+
 - **Measurement of the J/psi polarization with respect to the event plane in Pb-Pb collisions**
   - Analyzers: Luca
   - Analysis note: [1131](https://alice-notes.web.cern.ch/node/1131)
@@ -46,6 +49,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Status: CR1
 
 ---
+
 - **Multiplicity dependence of Y(1S) production at forward rapidity in pp collisions at 13 TeV**
   - Analyzers: Sarah
   - Analysis note: [839](https://alice-notes.web.cern.ch/node/839)
@@ -57,6 +61,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Status: EB review -> CR1
 
 ---
+
 - **Measurement of Psi(2S) production as a function of charged-particle multiplicity in pp collisions at 13 TeV and p--Pb collisions at 8.16 TeV with ALICE at the LHC**
   - Analyzers: Theraa
   - Analysis note: [1187](https://alice-notes.web.cern.ch/node/1187), [1043](https://alice-notes.web.cern.ch/node/1043)
@@ -68,6 +73,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Status: EB review -> (IRC + EB review) -> CR1
 
 ---
+
 - **Psi(2S) production in PbPb collisions at sqrt(sNN) = 5.02 TeV**
   - Analyzers: Roberta, Kunal, Biswarup, Hushnud
   - Analysis note: [1216](https://alice-notes.web.cern.ch/node/1216)
@@ -79,6 +85,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Status: 
 
 ---
+
 - **Psi(2S) production in PbPb collisions at sqrt(sNN) = 5.02 TeV**
   - Analyzers: Sizar, Zaida
   - Analysis note: [1192](https://alice-notes.web.cern.ch/node/1192)
