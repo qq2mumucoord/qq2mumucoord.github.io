@@ -16,6 +16,8 @@ Markdown documentation: [link](https://www.markdownguide.org/basic-syntax/)
 
 You can use the [editor on GitHub](https://github.com/qq2mumucoord/qq2mumucoord.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+---
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 For more details see [Get started](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) and [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
