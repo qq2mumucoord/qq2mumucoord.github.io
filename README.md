@@ -12,6 +12,8 @@ Useful links:
 3. Run1 AOD conversion in O2 format: [link](https://docs.google.com/spreadsheets/d/1ZPNsleP-BvMEF8jiwfWp4FspDyWNWRcv_38HYna606A/edit#gid=0)
 4. Run2 AOD conversion in O2 format: [link](https://docs.google.com/spreadsheets/d/1RFgOFZNcbLiMQd1_6V5XtW6ckfzjOVlarADQYxLeKWA/edit#gid=0)
 
+Markdown documentation: [link](https://www.markdownguide.org/basic-syntax/)
+
 You can use the [editor on GitHub](https://github.com/qq2mumucoord/qq2mumucoord.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
