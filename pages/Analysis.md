@@ -11,6 +11,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary: yes
   - Paper proposal:
   - Status:
+
 ---
 - **Forward rapidity J/psi production as a function of charged-particle multiplicity in pp collisions at sqrt(s) = 5.02 and 13 TeV with ALICE at the LHC**
   - Analyzers: Raghunath
@@ -21,6 +22,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary:
   - Paper proposal:
   - Status: CR1 -> IRC review
+
 ---
 - **First measurement in semi-central Pb--Pb collisions at sqrt(sNN) = 5.02 TeV of low-pt J/psi exceeding the hadronic production**
   - Analyzers: Ophelie
@@ -31,6 +33,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary: yes
   - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199174/attachments/2180527/3683214/PF_Paper_Proposal_20210129.pdf)
   - Status: IRC review
+
 ---
 - **Measurement of the J/psi polarization with respect to the event plane in Pb-Pb collisions**
   - Analyzers: Luca
@@ -41,6 +44,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary: no
   - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199163/attachments/2178784/3680057/Jpsi_polarization_vs_event_plane.pdf)
   - Status: CR1
+
 ---
 - **Multiplicity dependence of Y(1S) production at forward rapidity in pp collisions at 13 TeV**
   - Analyzers: Sarah
@@ -51,7 +55,8 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary: 
   - Paper proposal: 
   - Status: EB review -> CR1
---
+
+---
 - **Measurement of Psi(2S) production as a function of charged-particle multiplicity in pp collisions at 13 TeV and p--Pb collisions at 8.16 TeV with ALICE at the LHC**
   - Analyzers: Theraa
   - Analysis note: [1187](https://alice-notes.web.cern.ch/node/1187), [1043](https://alice-notes.web.cern.ch/node/1043)
@@ -61,6 +66,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary: 
   - Paper proposal: 
   - Status: EB review -> (IRC + EB review) -> CR1
+
 ---
 - **Psi(2S) production in PbPb collisions at sqrt(sNN) = 5.02 TeV**
   - Analyzers: Roberta, Kunal, Biswarup, Hushnud
@@ -71,6 +77,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Preliminary: 
   - Paper proposal: [slides](https://indico.cern.ch/event/1105286/contributions/4654512/attachments/2368151/4044186/Psi2S-PF-21Dec2021.pdf)
   - Status: 
+
 ---
 - **Psi(2S) production in PbPb collisions at sqrt(sNN) = 5.02 TeV**
   - Analyzers: Sizar, Zaida
