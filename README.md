@@ -16,8 +16,6 @@ Markdown documentation: [link](https://www.markdownguide.org/basic-syntax/)
 
 You can use the [editor on GitHub](https://github.com/qq2mumucoord/qq2mumucoord.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
----
-
 ```{toggle} Click the button to reveal!
 :show:
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
