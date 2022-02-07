@@ -4,7 +4,7 @@ Overview:
 
 - [Analysis](pages/Analysis.md)
 - [Conferences](pages/Conferences.md)
-- [O2 utils](pages/O2 utils.md)
+- [O2 utils](pages/O2_utils.md)
 
 Useful links:
 
