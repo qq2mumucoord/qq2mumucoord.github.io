@@ -2,7 +2,8 @@
 
 Overview:
 
-- [Analysis](pages/Analysis.md)
+- [Analysis going for paper](pages/Analysis.md)
+- [Analysis going for preliminary](pages/Preliminary.md)
 - [Conferences](pages/Conferences.md)
 - [O2 utils](pages/O2_utils.md)
 
