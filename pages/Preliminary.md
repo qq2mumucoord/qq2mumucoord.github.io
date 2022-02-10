@@ -2,7 +2,7 @@
 
 
 ---
-- **Search for J/psi elliptic flow in pp collisions at 13 TeV**
+- **Search for J/psi elliptic flow in pp collisions at 13 TeV** &rarr; QM2022 preliminary
   - Analyzers: Sebastien
   - Analysis note: [1280](https://alice-notes.web.cern.ch/node/1280)
   - ARC: Robin Caron, Cvetan Cheshkov
@@ -12,7 +12,7 @@
  
 ---
 
-- **Y(1S) polarization in pp collisions at 13 TeV**
+- **Y(1S) polarization in pp collisions at 13 TeV** &rarr; QM2022 preliminary
   - Analyzers: Yanchun
   - Analysis note: /
   - ARC: Livio Bianchi, Xavier Lopez
@@ -32,7 +32,7 @@
  
 ---
 
-- **Study of muons from HF in pp collisions at 13 TeV**
+- **Study of muons from HF in pp collisions at 13 TeV** &rarr; QM preformance
   - Analyzers: Michele
   - Analysis note: /
   - ARC: /
