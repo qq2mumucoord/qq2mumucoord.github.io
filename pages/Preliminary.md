@@ -47,5 +47,5 @@
   - Analysis note: /
   - ARC: /
   - PAG presentations:
-  - Preview: /
+  - Preview: [link (perf)](https://indico.cern.ch/event/1122791/contributions/4714006/attachments/2386621/4078958/MPennisi_DQ_meeting.pdf)
   - Approval: /
