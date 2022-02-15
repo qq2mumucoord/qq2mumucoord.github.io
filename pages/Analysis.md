@@ -46,7 +46,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Laure, Ionut, Panos
   - Preliminary: no
   - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199163/attachments/2178784/3680057/Jpsi_polarization_vs_event_plane.pdf)
-  - Status: CR1
+  - Status: CR1 ended
 
 ---
 
