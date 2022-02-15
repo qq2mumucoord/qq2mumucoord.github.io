@@ -5,6 +5,7 @@ Overview:
 - [Analysis going for paper](pages/Analysis.md)
 - [Analysis going for preliminary](pages/Preliminary.md)
 - [Conferences](pages/Conferences.md)
+- [To do list](pages/to_do_list.md)
 - [O2 utils](pages/O2_utils.md)
 
 Useful links:
