@@ -34,7 +34,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Evgeny, Jurgen, Trine
   - Preliminary: yes
   - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199174/attachments/2180527/3683214/PF_Paper_Proposal_20210129.pdf)
-  - Status: IRC review
+  - Status: CR1
 
 ---
 
@@ -70,7 +70,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Anton Andronic, Anton Alkin, Luca
   - Preliminary: 
   - Paper proposal: 
-  - Status: EB review -> (IRC + EB review) -> CR1
+  - Status: CR1
 
 ---
 
