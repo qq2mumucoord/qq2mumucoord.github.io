@@ -37,7 +37,7 @@
   - Analysis note: /
   - ARC: /
   - PAG presentations: [1](https://indico.cern.ch/event/1120287/contributions/4709981/attachments/2380590/4067511/PAG_Update.pdf)
-  - Preview: /
+  - Preview: [link (perf)](https://indico.cern.ch/event/1122791/contributions/4714006/attachments/2386621/4078958/MPennisi_DQ_meeting.pdf)
   - Approval: /
  
 ---
@@ -47,5 +47,15 @@
   - Analysis note: /
   - ARC: /
   - PAG presentations: [1](https://indico.cern.ch/event/1127549/contributions/4733104/attachments/2389551/4084669/PAG_Meeting_Feb11_2022.pdf)
-  - Preview: [link (perf)](https://indico.cern.ch/event/1122791/contributions/4714006/attachments/2386621/4078958/MPennisi_DQ_meeting.pdf)
+  - Preview:
+  - Approval: /
+
+---
+
+- **Psi(2S) polarization in pp collisions at 13 TeV**
+  - Analyzers: Dushmanta Sahu
+  - Analysis note: /
+  - ARC: /
+  - PAG presentations: [1](https://indico.cern.ch/event/1129819/contributions/4745536/attachments/2393691/4092405/Dushmanta-PAG-18Feb2022.pdf)
+  - Preview:
   - Approval: /
