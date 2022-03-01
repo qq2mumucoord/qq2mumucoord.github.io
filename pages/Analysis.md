@@ -34,7 +34,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Evgeny, Jurgen, Trine
   - Preliminary: yes
   - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199174/attachments/2180527/3683214/PF_Paper_Proposal_20210129.pdf)
-  - Status: CR1
+  - Status: CR1 -> Additional comments from CR1
 
 ---
 
@@ -46,7 +46,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Laure, Ionut, Panos
   - Preliminary: no
   - Paper proposal: [slides](https://indico.cern.ch/event/994953/contributions/4199163/attachments/2178784/3680057/Jpsi_polarization_vs_event_plane.pdf)
-  - Status: CR1 ended
+  - Status: CR1 -> IRC review
 
 ---
 
@@ -58,7 +58,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Martino, Zaida, Biswarup
   - Preliminary: 
   - Paper proposal: 
-  - Status: EB review -> CR1
+  - Status: CR1 -> IRC review
 
 ---
 
