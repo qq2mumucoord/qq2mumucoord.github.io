@@ -70,7 +70,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Anton Andronic, Anton Alkin, Luca
   - Preliminary: 
   - Paper proposal: 
-  - Status: CR1
+  - Status: CR1 ended, implementing comments
 
 ---
 
