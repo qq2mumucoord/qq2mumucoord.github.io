@@ -16,7 +16,7 @@
   - Analyzers: Yanchun
   - Analysis note: [1297](https://alice-notes.web.cern.ch/node/1297)
   - ARC: Livio Bianchi, Xavier Lopez
-  - PAG presentations: [1](https://indico.cern.ch/event/1106532/contributions/4659662/attachments/2367201/4042653/dPAG20211217.pdf), [2](https://indico.cern.ch/event/1123891/contributions/4721504/attachments/2384694/4075402/dPAG20220204.pdf)
+  - PAG presentations: [1](https://indico.cern.ch/event/1106532/contributions/4659662/attachments/2367201/4042653/dPAG20211217.pdf), [2](https://indico.cern.ch/event/1123891/contributions/4721504/attachments/2384694/4075402/dPAG20220204.pdf), [3](https://indico.cern.ch/event/1133107/contributions/4756039/attachments/2397690/4099940/dPAG20220225.pdf)
   - Preview: [link](https://indico.cern.ch/event/1122791/contributions/4713990/attachments/2387100/4079886/dYD20220208_DQPre.pdf)
   - Approval: /
  
@@ -36,7 +36,7 @@
   - Analyzers: Michele
   - Analysis note: /
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1120287/contributions/4709981/attachments/2380590/4067511/PAG_Update.pdf)
+  - PAG presentations: [1](https://indico.cern.ch/event/1120287/contributions/4709981/attachments/2380590/4067511/PAG_Update.pdf), [2](https://indico.cern.ch/event/1133107/contributions/4754331/attachments/2397669/4099900/MPennisi_PAG_meeting_25_02.pdf)
   - Preview: [link (perf)](https://indico.cern.ch/event/1122791/contributions/4714006/attachments/2386621/4078958/MPennisi_DQ_meeting.pdf)
   - Approval: /
  
