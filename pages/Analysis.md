@@ -70,7 +70,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Anton Andronic, Anton Alkin, Luca
   - Preliminary: 
   - Paper proposal: 
-  - Status: CR1 ended, implementing comments
+  - Status: **CR2**
 
 ---
 
@@ -91,7 +91,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - Analysis note: [1192](https://alice-notes.web.cern.ch/node/1192)
   - ARC: 
   - Paper draft: [7634](https://alice-publications.web.cern.ch/node/7634)
-  - IRC: 
+  - IRC: Anton Andronic, Victor Jose Gaston Feuillard, Michael Andreas Winn
   - Preliminary: 
   - Paper proposal: [slides](https://indico.cern.ch/event/1105286/contributions/4649842/attachments/2366523/4041074/PF-JpsiPair-PaperProposal-16Dec21.pdf)
   - Status: 
