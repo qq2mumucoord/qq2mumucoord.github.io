@@ -22,7 +22,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
   - IRC: Cvetan, Zaida, Fiorella
   - Preliminary:
   - Paper proposal:
-  - Status: **CR2**
+  - Status: CR1 -> IRC review
 
 ---
 
