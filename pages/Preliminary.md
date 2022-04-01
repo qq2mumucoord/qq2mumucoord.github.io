@@ -8,7 +8,7 @@
   - ARC: Robin Caron, Cvetan Cheshkov
   - Pag presentations: [1](https://indico.cern.ch/event/1120287/contributions/4705881/attachments/2380577/4067501/SPerrin_Analyse_PAG_280122.pdf), [2](https://indico.cern.ch/event/1123891/contributions/4717911/attachments/2384522/4074934/SPerrin_Analyse_PAG_040222.pdf)
   - Preview: [link](https://indico.cern.ch/event/1122791/contributions/4713989/attachments/2386370/4078594/SPerrin_PWG_082222.pdf)
-  - Approval: [link DQ](https://indico.cern.ch/event/1123657/contributions/4757398/attachments/2403669/4111306/SPerrin_PWG_080322.pdf)
+  - Approval: [link DQ](https://indico.cern.ch/event/1123657/contributions/4757398/attachments/2403669/4111306/SPerrin_PWG_080322.pdf), [link Forum](https://indico.cern.ch/event/1135462/contributions/4766973/attachments/2402443/4127170/SPerrin_PF_200322.pdf)
  
 ---
 
@@ -18,7 +18,7 @@
   - ARC: Livio Bianchi, Xavier Lopez
   - PAG presentations: [1](https://indico.cern.ch/event/1106532/contributions/4659662/attachments/2367201/4042653/dPAG20211217.pdf), [2](https://indico.cern.ch/event/1123891/contributions/4721504/attachments/2384694/4075402/dPAG20220204.pdf), [3](https://indico.cern.ch/event/1133107/contributions/4756039/attachments/2397690/4099940/dPAG20220225.pdf)
   - Preview: [link](https://indico.cern.ch/event/1122791/contributions/4713990/attachments/2387100/4079886/dYD20220208_DQPre.pdf)
-  - Approval: [link DQ](https://indico.cern.ch/event/1123657/contributions/4757399/attachments/2403875/4111738/dYD20220308_DQApproval.pdf)
+  - Approval: [link DQ](https://indico.cern.ch/event/1123657/contributions/4757399/attachments/2403875/4111738/dYD20220308_DQApproval.pdf), [link Forum](https://indico.cern.ch/event/1135462/contributions/4766974/attachments/2402446/4127119/dYD20220322_PFApproval_final.pdf)
  
 ---
 
