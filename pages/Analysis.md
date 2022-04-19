@@ -86,7 +86,7 @@ Link to the complete table: [google doc](https://docs.google.com/spreadsheets/d/
 
 ---
 
-- **Psi(2S) production in PbPb collisions at sqrt(sNN) = 5.02 TeV**
+- **Double J/psi production in pp at 13 TeV**
   - Analyzers: Sizar, Zaida
   - Analysis note: [1192](https://alice-notes.web.cern.ch/node/1192)
   - ARC: 
