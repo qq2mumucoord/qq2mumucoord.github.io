@@ -18,3 +18,16 @@
   4. *"J/psi photoprod. and the prod. of dileptons via photon-photon interactions in hadronic Pb-Pb"* &rarr; **DQ talk**
 
   5. *"Ground and excited quarkonium states as probes of MPI in small systems"* &rarr; **accepted as poster**
+
+---
+
+- ### ICHEP, 6-13/7 Bologna, [indico](https://www.ichep2022.it/)
+  1. *Measurement of inclusive, prompt and non-prompt J/psi production in Pb-Pb* &rarr; **DQ talk**
+  
+  2. *Psi(2S) production and nuclear modification factor in nucleus-nucleus collisions* &rarr; **DQ talk**
+  
+  3. *Quarkonia production and elliptic flow in small systems* &rarr; **DQ talk**
+  
+  4. *Ground and excited quarkonium states as probes of MPI in small systems* &rarr; **DQ talk**
+  
+  5. *J/psi photoproduction and the production of dileptons via photon-photon interaction in hadronic Pb-Pb collisions* &rarr; **merged DQ+EM talk**
