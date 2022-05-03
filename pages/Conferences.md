@@ -11,23 +11,23 @@
 - ### SQM 2022, 13-17/6 Busan, hybrid, [indico](https://sqm2022.pusan.ac.kr/)
   1. *"Measurement of the inclusive, prompt and non-prompt J/psi production in Pb-Pb"* and *"Quarkonium polarization in Pb-Pb and pp collisions"* &rarr; **merged DQ talk**
 
-  2. *"psi2s production and nuclear modification factor in nucleus-nucleus"* &rarr; **DQ talk**
+  2. *"psi2s production and nuclear modification factor in nucleus-nucleus"* &rarr; **DQ talk** (Yanchun)
 
-  3. *"Quarkonium production and elliptic flow in small systems"* &rarr; **DQ talk**
+  3. *"Quarkonium production and elliptic flow in small systems"* &rarr; **DQ talk** (Hushnud)
 
-  4. *"J/psi photoprod. and the prod. of dileptons via photon-photon interactions in hadronic Pb-Pb"* &rarr; **DQ talk**
+  4. *"J/psi photoprod. and the prod. of dileptons via photon-photon interactions in hadronic Pb-Pb"* &rarr; **DQ talk** (Minjung)
 
-  5. *"Ground and excited quarkonium states as probes of MPI in small systems"* &rarr; **accepted as poster**
+  5. *"Ground and excited quarkonium states as probes of MPI in small systems"* &rarr; **accepted as poster** (Ionut)
 
 ---
 
 - ### ICHEP, 6-13/7 Bologna, [indico](https://www.ichep2022.it/)
-  1. *Measurement of inclusive, prompt and non-prompt J/psi production in Pb-Pb* &rarr; **DQ talk**
+  1. *Measurement of inclusive, prompt and non-prompt J/psi production in Pb-Pb* &rarr; **DQ talk** (Himanshu?)
   
-  2. *Psi(2S) production and nuclear modification factor in nucleus-nucleus collisions* &rarr; **DQ talk**
+  2. *Psi(2S) production and nuclear modification factor in nucleus-nucleus collisions* &rarr; **DQ talk** (Biswarup?)
   
-  3. *Quarkonia production and elliptic flow in small systems* &rarr; **DQ talk**
+  3. *Quarkonia production and elliptic flow in small systems* &rarr; **DQ talk** (Ingrid?)
   
-  4. *Ground and excited quarkonium states as probes of MPI in small systems* &rarr; **DQ talk**
+  4. *Ground and excited quarkonium states as probes of MPI in small systems* &rarr; **DQ talk** (Theera?)
   
   5. *J/psi photoproduction and the production of dileptons via photon-photon interaction in hadronic Pb-Pb collisions* &rarr; **merged DQ+EM talk**
