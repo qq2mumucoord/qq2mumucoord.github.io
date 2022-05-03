@@ -9,15 +9,15 @@
 ---
 
 - ### SQM 2022, 13-17/6 Busan, hybrid, [indico](https://sqm2022.pusan.ac.kr/)
-  1. *"Measurement of the inclusive, prompt and non-prompt J/psi production in Pb-Pb"* and *"Quarkonium polarization in Pb-Pb and pp collisions"* &rarr; **merged DQ talk**
+  1. *"Measurement of the inclusive, prompt and non-prompt J/psi production in Pb-Pb"* and *"Quarkonium polarization in Pb-Pb and pp collisions"* &rarr; **merged DQ talk** (Yanchun)
 
-  2. *"psi2s production and nuclear modification factor in nucleus-nucleus"* &rarr; **DQ talk** (Yanchun)
+  2. *"psi2s production and nuclear modification factor in nucleus-nucleus"* &rarr; **DQ talk** (Hushnud)
 
-  3. *"Quarkonium production and elliptic flow in small systems"* &rarr; **DQ talk** (Hushnud)
+  3. *"Quarkonium production and elliptic flow in small systems"* &rarr; **DQ talk** (Minjung)
 
-  4. *"J/psi photoprod. and the prod. of dileptons via photon-photon interactions in hadronic Pb-Pb"* &rarr; **DQ talk** (Minjung)
+  4. *"J/psi photoprod. and the prod. of dileptons via photon-photon interactions in hadronic Pb-Pb"* &rarr; **DQ talk** (Ionut)
 
-  5. *"Ground and excited quarkonium states as probes of MPI in small systems"* &rarr; **accepted as poster** (Ionut)
+  5. *"Ground and excited quarkonium states as probes of MPI in small systems"* &rarr; **accepted as poster**
 
 ---
 
