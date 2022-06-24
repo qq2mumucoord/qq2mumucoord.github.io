@@ -26,7 +26,7 @@
   - Analyzers: Dikshit
   - Analysis note: /
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1106532/contributions/4655204/attachments/2367115/4042226/Alice_PAG_update.pdf), [2](https://indico.cern.ch/event/1118278/contributions/4695981/attachments/2376679/4060039/alice_update21jan2022odp.pdf), [2](https://indico.cern.ch/event/1170512/contributions/4916436/attachments/2464504/4225937/PAG_DQ17june2022.pdf)
+  - PAG presentations: [1](https://indico.cern.ch/event/1106532/contributions/4655204/attachments/2367115/4042226/Alice_PAG_update.pdf), [2](https://indico.cern.ch/event/1118278/contributions/4695981/attachments/2376679/4060039/alice_update21jan2022odp.pdf), [3](https://indico.cern.ch/event/1170512/contributions/4916436/attachments/2464504/4225937/PAG_DQ17june2022.pdf)
   - Preview: /
   - Approval: /
  
@@ -66,7 +66,7 @@
   - Analyzers: Afnan Shatat
   - Analysis note: /
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1170512/contributions/4916423/attachments/2464364/4226099/SHATAT_PAG_17June22.pdf))
+  - PAG presentations: [1](https://indico.cern.ch/event/1170512/contributions/4916423/attachments/2464364/4226099/SHATAT_PAG_17June22.pdf)
   - Preview:
   - Approval: /
 
