@@ -6,7 +6,7 @@
   - Analyzers: Sebastien
   - Analysis note: [1280](https://alice-notes.web.cern.ch/node/1280)
   - ARC: Robin Caron, Cvetan Cheshkov
-  - Pag presentations: [1](https://indico.cern.ch/event/1120287/contributions/4705881/attachments/2380577/4067501/SPerrin_Analyse_PAG_280122.pdf), [2](https://indico.cern.ch/event/1123891/contributions/4717911/attachments/2384522/4074934/SPerrin_Analyse_PAG_040222.pdf), [3](https://indico.cern.ch/event/1158338/contributions/4864257/attachments/2438860/4177447/SPerrin_Analyse_PAG_050522.pdf), [4](https://indico.cern.ch/event/1163512/contributions/4886548/attachments/2447913/4194710/SPerrin_Analyse_PAG_190522.pdf)
+  - Pag presentations: [1](https://indico.cern.ch/event/1120287/contributions/4705881/attachments/2380577/4067501/SPerrin_Analyse_PAG_280122.pdf), [2](https://indico.cern.ch/event/1123891/contributions/4717911/attachments/2384522/4074934/SPerrin_Analyse_PAG_040222.pdf), [3](https://indico.cern.ch/event/1158338/contributions/4864257/attachments/2438860/4177447/SPerrin_Analyse_PAG_050522.pdf), [4](https://indico.cern.ch/event/1163512/contributions/4886548/attachments/2447913/4194710/SPerrin_Analyse_PAG_190522.pdf), [5](https://indico.cern.ch/event/1170512/contributions/4926359/attachments/2464535/4225992/SPerrin_Analyse_PAG_170622.pdf)
   - Preview: [link](https://indico.cern.ch/event/1122791/contributions/4713989/attachments/2386370/4078594/SPerrin_PWG_082222.pdf)
   - Approval: [link DQ](https://indico.cern.ch/event/1123657/contributions/4757398/attachments/2403669/4111306/SPerrin_PWG_080322.pdf), [link Forum](https://indico.cern.ch/event/1135462/contributions/4766973/attachments/2402443/4127170/SPerrin_PF_200322.pdf)
  
@@ -26,7 +26,7 @@
   - Analyzers: Dikshit
   - Analysis note: /
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1106532/contributions/4655204/attachments/2367115/4042226/Alice_PAG_update.pdf), [2](https://indico.cern.ch/event/1118278/contributions/4695981/attachments/2376679/4060039/alice_update21jan2022odp.pdf)
+  - PAG presentations: [1](https://indico.cern.ch/event/1106532/contributions/4655204/attachments/2367115/4042226/Alice_PAG_update.pdf), [2](https://indico.cern.ch/event/1118278/contributions/4695981/attachments/2376679/4060039/alice_update21jan2022odp.pdf), [2](https://indico.cern.ch/event/1170512/contributions/4916436/attachments/2464504/4225937/PAG_DQ17june2022.pdf)
   - Preview: /
   - Approval: /
  
@@ -57,5 +57,25 @@
   - Analysis note: /
   - ARC: /
   - PAG presentations: [1](https://indico.cern.ch/event/1129819/contributions/4745536/attachments/2393691/4092405/Dushmanta-PAG-18Feb2022.pdf)
+  - Preview:
+  - Approval: /
+
+---
+
+- **Rapidity differential JPsi photoproduction in Pb-Pb**
+  - Analyzers: Afnan Shatat
+  - Analysis note: /
+  - ARC: /
+  - PAG presentations: [1](https://indico.cern.ch/event/1170512/contributions/4916423/attachments/2464364/4226099/SHATAT_PAG_17June22.pdf))
+  - Preview:
+  - Approval: /
+
+---
+
+- **Event shape dependence of charmonia production in pp collisions at 13 TeV**
+  - Analyzers: Neelkamal Mallick
+  - Analysis note: /
+  - ARC: /
+  - PAG presentations: [1](https://indico.cern.ch/event/1170512/contributions/4923715/attachments/2464546/4226011/PAGQQ2mumu17June2022_Neelkamal.pdf)
   - Preview:
   - Approval: /
