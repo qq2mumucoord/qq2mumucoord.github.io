@@ -15,6 +15,7 @@ Useful links:
 3. Dataset QA: [Run2](https://twiki.cern.ch/twiki/bin/viewauth/ALICE/QAForTheSelectionOfGoodPhysicsRunsForMuonPhysics)
 4. Run1 AOD conversion in O2 format: [link](https://docs.google.com/spreadsheets/d/1ZPNsleP-BvMEF8jiwfWp4FspDyWNWRcv_38HYna606A/edit#gid=0)
 5. Run2 AOD conversion in O2 format: [link](https://docs.google.com/spreadsheets/d/1RFgOFZNcbLiMQd1_6V5XtW6ckfzjOVlarADQYxLeKWA/edit#gid=0)
+6. Run1 / Run2 MC conversion: [link](https://docs.google.com/spreadsheets/d/1QIwR61ZGZz-2DhIMCihbBzkPydFNS5CI9i0EJAp684Q/edit#gid=2134847283)
 6. Markdown documentation: [link](https://www.markdownguide.org/basic-syntax/)
 
 You can use the [editor on GitHub](https://github.com/qq2mumucoord/qq2mumucoord.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
