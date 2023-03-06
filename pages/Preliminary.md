@@ -32,23 +32,25 @@
  
 ---
 
-- **Study of muons from HF in pp collisions at 13 TeV** &rarr; QM2022 preformance
+- **Study of muons from HF in pp collisions at 13 TeV** &rarr; QM2022 preformance, ***HP2023 preliminary***
   - Analyzers: Michele
-  - Analysis note: /
+  - Analysis note: [1367](https://alice-notes.web.cern.ch/node/1367)
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1120287/contributions/4709981/attachments/2380590/4067511/PAG_Update.pdf), [2](https://indico.cern.ch/event/1133107/contributions/4754331/attachments/2397669/4099900/MPennisi_PAG_meeting_25_02.pdf), [3](https://indico.cern.ch/event/1158338/contributions/4864039/attachments/2438863/4177454/PAG_Meeting_MPennisi_6_05_2022.pdf), [4](https://indico.cern.ch/event/1180174/contributions/4956606/attachments/2477171/4251720/MPennisi_PAG_meeting_8_07.pdf.pdf)
+  - PAG presentations: [1](https://indico.cern.ch/event/1120287/contributions/4709981/attachments/2380590/4067511/PAG_Update.pdf), [2](https://indico.cern.ch/event/1133107/contributions/4754331/attachments/2397669/4099900/MPennisi_PAG_meeting_25_02.pdf), [3](https://indico.cern.ch/event/1158338/contributions/4864039/attachments/2438863/4177454/PAG_Meeting_MPennisi_6_05_2022.pdf), [4](https://indico.cern.ch/event/1180174/contributions/4956606/attachments/2477171/4251720/MPennisi_PAG_meeting_8_07.pdf.pdf), [5](https://indico.cern.ch/event/1229959/contributions/5175723/attachments/2563941/4419848/Presentazioni%20Pag%209_12.pdf), [5](https://indico.cern.ch/event/1240482/contributions/5214801/attachments/2575267/4440562/MPennisi_PAG_meeting_13_01_23.pdf), [6](https://indico.cern.ch/event/1249202/contributions/5253442/attachments/2587333/4463982/MPennisi_PAG_meeting_3_02_23.pdf)
   - Preview: [link (perf)](https://indico.cern.ch/event/1122791/contributions/4714006/attachments/2386621/4078958/MPennisi_DQ_meeting.pdf)
   - Approval: [link DQ (perf)](https://indico.cern.ch/event/1123657/contributions/4757400/attachments/2403714/4111406/DQMeeting_MPennisi_8_03_2022.pdf)
+  - DQ Preview: [link DQ (prev)](https://indico.cern.ch/event/1253027/contributions/5263689/attachments/2593370/4476019/MPennisi_PWG_preview_14_02.pdf)
+  - PF Preview: [link PF (prev)](https://indico.cern.ch/event/1253172/contributions/5269471/attachments/2592409/4486103/MPennisi_PF_preview_23_02.pdf)
  
 ---
 
-- **Y(1S) cross section in pp collisions at 13 TeV**
-  - Analyzers: Hushnud
-  - Analysis note: /
+- **Y(1S) cross section in pp collisions at 13 TeV** &rarr; ***HP2023 preliminary***
+  - Analyzers: Subikash, Hushnud
+  - Analysis note: [1371](https://alice-notes.web.cern.ch/node/1371)
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1127549/contributions/4733104/attachments/2389551/4084669/PAG_Meeting_Feb11_2022.pdf), [2](https://indico.cern.ch/event/1216249/contributions/5116088/attachments/2537397/4367288/DQ_Upsilon_update_28_10_22-1.pdf)
-  - Preview:
-  - Approval: /
+  - PAG presentations: [1](https://indico.cern.ch/event/1127549/contributions/4733104/attachments/2389551/4084669/PAG_Meeting_Feb11_2022.pdf), [2](https://indico.cern.ch/event/1216249/contributions/5116088/attachments/2537397/4367288/DQ_Upsilon_update_28_10_22-1.pdf), [3](https://indico.cern.ch/event/1249202/contributions/5249539/attachments/2587847/4465043/DQ_upsilon_03022023.pdf)
+  - DQ Preview: [link DQ (prev)](https://indico.cern.ch/event/1253027/contributions/5263683/attachments/2593410/4476102/DQ_preview_14_02_2023.pdf)
+  - PF Preview: [link PF (prev)](https://indico.cern.ch/event/1253172/contributions/5269473/attachments/2592410/4486525/PF_preview_23_02_2023.pdf)
 
 ---
 
@@ -56,8 +58,8 @@
   - Analyzers: Dushmanta Sahu
   - Analysis note: /
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1129819/contributions/4745536/attachments/2393691/4092405/Dushmanta-PAG-18Feb2022.pdf), [2](https://indico.cern.ch/event/1176351/contributions/4940901/attachments/2473675/4244281/Dushmanta-PAG-1July2022.pdf), [3](https://indico.cern.ch/event/1209003/contributions/5084004/attachments/2523996/4340629/Dushmanta-PAG-7-10-22.pdf)
-  - Preview:
+  - PAG presentations: [1](https://indico.cern.ch/event/1129819/contributions/4745536/attachments/2393691/4092405/Dushmanta-PAG-18Feb2022.pdf), [2](https://indico.cern.ch/event/1176351/contributions/4940901/attachments/2473675/4244281/Dushmanta-PAG-1July2022.pdf), [3](https://indico.cern.ch/event/1209003/contributions/5084004/attachments/2523996/4340629/Dushmanta-PAG-7-10-22.pdf), [4](https://indico.cern.ch/event/1227320/contributions/5164003/attachments/2559161/4410543/Dushmanta-PAG-2-12-2022.pdf), [5](https://indico.cern.ch/event/1243521/contributions/5225883/attachments/2579153/4447955/Dushmanta-PAG-20-01-2023.pdf), [6](https://indico.cern.ch/event/1249202/contributions/5248566/attachments/2587285/4463919/PAGQQ2mumu03Feb2023_Neelkamal.pdf), [7](https://indico.cern.ch/event/1258435/contributions/5294573/attachments/2604004/4497028/Dushmanta-PAG-3-03-2023.pdf)
+  - Preview: 
   - Approval: /
 
 ---
@@ -66,8 +68,8 @@
   - Analyzers: Afnan Shatat
   - Analysis note: /
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1170512/contributions/4916423/attachments/2464364/4226099/SHATAT_PAG_17June22.pdf)
-  - Preview:
+  - PAG presentations: [1](https://indico.cern.ch/event/1170512/contributions/4916423/attachments/2464364/4226099/SHATAT_PAG_17June22.pdf), [2](https://indico.cern.ch/event/1225575/contributions/5155598/attachments/2554293/4401635/PAG_SHATAT_25Nov22-1.pdf), [3](https://indico.cern.ch/event/1258435/contributions/5285926/attachments/2603974/4496978/PAG_SHATAT_3March2023.pdf)
+  - Preview: [link perf](https://indico.cern.ch/event/1253027/contributions/5263694/attachments/2593567/4476375/SHATAT_HP_DQPrev.pdf)
   - Approval: /
 
 ---
@@ -76,6 +78,16 @@
   - Analyzers: Neelkamal Mallick
   - Analysis note: /
   - ARC: /
-  - PAG presentations: [1](https://indico.cern.ch/event/1170512/contributions/4923715/attachments/2464546/4226011/PAGQQ2mumu17June2022_Neelkamal.pdf), [2](https://indico.cern.ch/event/1209003/contributions/5086021/attachments/2524217/4341041/Neelkamal_PAGQQ2mumu07Oct2022.pdf)
+  - PAG presentations: [1](https://indico.cern.ch/event/1170512/contributions/4923715/attachments/2464546/4226011/PAGQQ2mumu17June2022_Neelkamal.pdf), [2](https://indico.cern.ch/event/1209003/contributions/5086021/attachments/2524217/4341041/Neelkamal_PAGQQ2mumu07Oct2022.pdf), [3](https://indico.cern.ch/event/1232083/contributions/5183615/attachments/2568667/4428942/PAGQQ2mumu16Dec2022.pdf), [4](https://indico.cern.ch/event/1254899/contributions/5276497/attachments/2595392/4480001/PAGQQ2mumu17Feb2023_Neelkamal.pdf)
+  - Preview:
+  - Approval: /
+
+---
+
+- **Measurement of coherent J/psi polarization in nuclear collisions at 5.02 TeV**
+  - Analyzers: Dukhishyam Mallick
+  - Analysis note: /
+  - ARC: /
+  - PAG presentations: [1](https://indico.cern.ch/event/1254899/contributions/5276730/attachments/2595369/4479961/Coherent_Jpsi_polarisation_PAG_170223.pdf)
   - Preview:
   - Approval: /
