@@ -1,6 +1,6 @@
 # List of the analyses going for preliminary / performance
 
-## Run3 analyses
+## Run2 analyses
 ---
 - **Search for J/psi elliptic flow in pp collisions at 13 TeV** &rarr; QM2022 preliminary
   - Analyzers: Sebastien
