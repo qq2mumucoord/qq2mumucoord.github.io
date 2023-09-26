@@ -1,6 +1,6 @@
 # List of the analyses going for preliminary / performance
 
-
+## Run3 analyses
 ---
 - **Search for J/psi elliptic flow in pp collisions at 13 TeV** &rarr; QM2022 preliminary
   - Analyzers: Sebastien
@@ -93,8 +93,10 @@
   - Approval: [DQ](https://indico.cern.ch/event/1309455/contributions/5507842/attachments/2689718/4667272/DQ_approval_Presentation_slide_25july2023.pdf), [PF](https://indico.cern.ch/event/1310105/contributions/5510886/attachments/2695015/4677157/PF_approval_07082023_Presentation.pdf)
 
  ---
+ ---
+ ## Run3 analyses
 
-- **J/psi - D0 combined analysis in pp collisions (Run3)**
+- **J/psi - D0 combined analysis in pp collisions**
   - Analyzers: Luca Micheletti, Fabrizio Grosa
   - Analysis note: /
   - ARC: /
@@ -104,7 +106,7 @@
 
   ---
 
-- **Psi(2S) to J/psi ratio in pp collisios (Run3)**
+- **Psi(2S) to J/psi ratio in pp collisios**
   - Analyzers: Luca Micheletti, Corentin Cot, Nicolas Bize, Maurice Coquet, Michael Winn
   - Analysis note: [1478](https://alice-notes.web.cern.ch/node/1478)
   - ARC: Cynthia Marie Hadjidakis, Ionut Cristian Arsene
@@ -114,7 +116,7 @@
  
   ---
 
-- **Multiplicity dependence study of Quarkonium polarization in pp 13.6 TeV (Run3)**
+- **Multiplicity dependence study of Quarkonium polarization in pp 13.6 TeV**
   - Analyzers:  Bhagyarathi Sahoo
   - Analysis note: /
   - ARC: /
